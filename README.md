@@ -1,2 +1,3 @@
 # ThugLife1
-Try and escape:
+Try and escape: https://samebaker.github.io/ThugLife1/
+it ran really weird for me....
